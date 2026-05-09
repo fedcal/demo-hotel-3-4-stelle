@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Hotel 3-4 stelle** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://hotel-3-4-stelle.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-hotel-3-4-stelle/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-hotel-3-4-stelle/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-hotel-3-4-stelle.git
-cd federico-demo-hotel-3-4-stelle
+git clone https://github.com/fedcal/demo-hotel-3-4-stelle.git
+cd demo-hotel-3-4-stelle
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:hotel-3-4-stelle
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-hotel-3-4-stelle/
+→ https://fedcal.github.io/demo-hotel-3-4-stelle/
 
 ## Hub demos Federico
 

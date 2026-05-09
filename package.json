@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-hotel-3-4-stelle",
+  "name": "demo-hotel-3-4-stelle",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Hotel 3-4 stelle — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://hotel-3-4-stelle.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-hotel-3-4-stelle.git"
+    "url": "https://github.com/fedcal/demo-hotel-3-4-stelle.git"
   },
   "scripts": {
     "ng": "ng",

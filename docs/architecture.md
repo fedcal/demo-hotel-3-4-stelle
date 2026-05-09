@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-hotel-3-4-stelle/
+demo-hotel-3-4-stelle/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
