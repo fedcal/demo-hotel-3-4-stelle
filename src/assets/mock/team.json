@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Marco Ferretti",
+      "ruolo": "Direttore Generale",
+      "bio": "Nipote del fondatore, guida l'hotel dal 2005 dopo una formazione alla Scuola Alberghiera di Rimini e una decade di esperienza in catene 5 stelle a Milano e Parigi. Porta avanti la tradizione di ospitalità familiare con uno sguardo moderno al cliente.",
+      "anniEsperienza": 22,
+      "image": "/assets/team/direttore.jpg",
+      "specialita": ["Revenue Management", "Ospitalità di lusso", "Sostenibilità alberghiera"]
+    },
+    {
+      "id": 2,
+      "nome": "Cinzia Molinari",
+      "ruolo": "Chef Executive",
+      "bio": "Chef con stella Michelin aspirante, formatasi al CAST Alimenti di Brescia. Propone una cucina romagnola contemporanea che esalta il pesce dell'Adriatico e i prodotti delle colline riminesi. Ha lavorato da Vissani e al Four Seasons di Firenze.",
+      "anniEsperienza": 18,
+      "image": "/assets/team/chef.jpg",
+      "specialita": ["Cucina di mare", "Pasticceria artigianale", "Menu degustazione"]
+    },
+    {
+      "id": 3,
+      "nome": "Roberto Neri",
+      "ruolo": "Maître de Salle",
+      "bio": "Sommelier AIS di secondo livello e responsabile di sala dal 2010. Cura la carta dei vini con selezione di oltre 80 etichette regionali e nazionali. Garantisce un servizio impeccabile con la cordialità tipica romagnola.",
+      "anniEsperienza": 20,
+      "image": "/assets/team/maitre.jpg",
+      "specialita": ["Sommelier AIS", "Gestione sala", "Abbinamenti cibo-vino"]
+    },
+    {
+      "id": 4,
+      "nome": "Elena Rossini",
+      "ruolo": "SPA Manager",
+      "bio": "Estetista professionale con specializzazione in massoterapia e tecniche olistiche. Laureata in Scienze del Benessere a Bologna, ha perfezionato la sua formazione in spa di lusso in Svizzera. Coordina uno staff di 3 operatori certificati.",
+      "anniEsperienza": 12,
+      "image": "/assets/team/spa.jpg",
+      "specialita": ["Massoterapia", "Trattamenti viso", "Tecniche olistiche orientali"]
+    }
+  ]
+}

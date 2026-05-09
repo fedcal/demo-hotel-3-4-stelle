@@ -1,0 +1,81 @@
+{
+  "servizi": [
+    {
+      "id": "ristorante",
+      "categoria": "Ristorazione",
+      "nome": "Ristorante La Terrazza",
+      "descrizione": "Il nostro ristorante affacciato sul mare propone piatti della tradizione romagnola rielaborati con creatività. Utilizziamo prodotti locali a km 0 e pesce fresco dell'Adriatico.",
+      "orari": "Colazione 07:30–10:00 · Pranzo 12:30–14:30 · Cena 19:00–22:00",
+      "icon": "🍽️",
+      "dettagli": ["Cucina romagnola e di mare", "Pesce fresco quotidiano", "Vini locali DOC Romagna", "Menu vegetariano disponibile", "Cena a lume di candela su richiesta"]
+    },
+    {
+      "id": "spa",
+      "categoria": "Benessere",
+      "nome": "Spa & Wellness Vista Mare",
+      "descrizione": "Oasi di benessere di 400 mq con piscina termale, sauna finlandese, bagno turco e una gamma completa di massaggi e trattamenti viso-corpo.",
+      "orari": "09:00–21:00 tutti i giorni",
+      "icon": "♨️",
+      "dettagli": ["Piscina termale 34°C", "Sauna finlandese 90°C", "Bagno turco", "Massaggio rilassante 60 min €70", "Trattamento viso €85", "Coppia romantica 90 min €150", "Percorso benessere giornaliero €45"]
+    },
+    {
+      "id": "piscina",
+      "categoria": "Leisure",
+      "nome": "Piscina all'aperto",
+      "descrizione": "Piscina esterna scaldata con vista sul lungomare, lettini riservati agli ospiti e bar bordo piscina. Aperta da maggio a settembre.",
+      "orari": "08:00–20:00 (mag–set)",
+      "icon": "🏊",
+      "dettagli": ["32 × 12 m", "Acqua riscaldata 26°C", "Lettini e ombrelloni gratuiti", "Bar bordo piscina", "Area bambini separata", "Docce e spogliatoi adiacenti"]
+    },
+    {
+      "id": "spiaggia",
+      "categoria": "Mare",
+      "nome": "Spiaggia Privata convenzionata",
+      "descrizione": "Convenzione con lo Stabilimento Bagni Adria n°47 a 80 m dall'hotel. Ombrellone e 2 lettini gratuiti per gli ospiti in pensione completa.",
+      "orari": "08:00–19:30 (stagionale)",
+      "icon": "🏖️",
+      "dettagli": ["80 m dall'hotel", "Ombrellone + 2 lettini inclusi (PC)", "Bar e servizio spiaggia", "Docce di acqua dolce", "Custodia oggetti valuiabili", "Noleggio pedalò e kayak"]
+    },
+    {
+      "id": "parcheggio",
+      "categoria": "Servizi",
+      "nome": "Parcheggio Gratuito",
+      "descrizione": "Ampio parcheggio privato recintato e videosorvegliato, gratuito per tutti gli ospiti dell'hotel. Capienza 40 posti auto.",
+      "orari": "Accesso 24h",
+      "icon": "🅿️",
+      "dettagli": ["40 posti auto", "Videosorvegliato 24h", "Recintato", "Gratuito per gli ospiti", "2 stalli per disabili", "Colonnina ricarica auto elettriche"]
+    },
+    {
+      "id": "navetta",
+      "categoria": "Servizi",
+      "nome": "Navetta Stazione Rimini",
+      "descrizione": "Servizio navetta gratuito per la Stazione Ferroviaria di Rimini, a 3 km dall'hotel. Su prenotazione alla reception.",
+      "orari": "Su prenotazione",
+      "icon": "🚌",
+      "dettagli": ["Distanza: 3 km", "Gratuita per gli ospiti", "Prenotazione in reception", "Fino a 8 passeggeri", "Luggage service incluso"]
+    }
+  ],
+  "pacchetti": [
+    {
+      "id": "romantico",
+      "nome": "Escapade Romantica",
+      "descrizione": "2 notti in Junior Suite con colazione a buffet, cena romantica a lume di candela e percorso spa coppia 90 min.",
+      "prezzoDa": 490,
+      "dettagli": ["Min. 2 notti", "Junior Suite", "Colazione inclusa", "Cena romantica", "Spa coppia 90 min", "Bottiglia Prosecco Doc in camera"]
+    },
+    {
+      "id": "benessere",
+      "nome": "Settimana Benessere",
+      "descrizione": "7 notti in camera Superior con mezza pensione, accesso illimitato alla spa e 3 trattamenti a scelta.",
+      "prezzoDa": 1190,
+      "dettagli": ["7 notti", "Camera Superior", "Mezza pensione", "Spa illimitata", "3 trattamenti inclusi", "Consulenza nutrizionale"]
+    },
+    {
+      "id": "famiglia",
+      "nome": "Famiglia in Riviera",
+      "descrizione": "Soggiorno da 3 a 7 notti in camera Standard o Superior, colazione inclusa, spiaggia convenzionata e riduzione bambini fino a 12 anni.",
+      "prezzoDa": 210,
+      "dettagli": ["Min. 3 notti", "Bambini -12 anni 50% sconto", "Colazione inclusa", "Spiaggia inclusa", "Culla gratuita su richiesta"]
+    }
+  ]
+}

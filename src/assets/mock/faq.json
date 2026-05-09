@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "La colazione è inclusa nel prezzo?",
+      "risposta": "La colazione a buffet è inclusa nelle tariffe B&B e superiori. Il buffet è disponibile dalle 07:30 alle 10:00 nel ristorante La Terrazza e comprende prodotti freschi locali, pasticceria artigianale, frutta di stagione, affettati e formaggi tipici romagnoli, oltre a una selezione di pane fatto in casa ogni mattina."
+    },
+    {
+      "domanda": "Quali sono gli orari di check-in e check-out?",
+      "risposta": "Il check-in è possibile dalle 15:00 alle 22:00. La reception è attiva 24h, quindi in caso di arrivo tardivo basta avvisarci. Il check-out è previsto entro le 11:00. Su richiesta e disponibilità è possibile richiedere l'early check-in (dalle 12:00) e il late check-out (fino alle 13:00) senza supplemento."
+    },
+    {
+      "domanda": "Gli animali domestici sono ammessi?",
+      "risposta": "L'Hotel Vista Mare non ammette animali domestici, ad eccezione dei cani guida per non vedenti. Ci scusiamo per l'inconveniente e siamo a disposizione per suggerire strutture pet-friendly nelle vicinanze."
+    },
+    {
+      "domanda": "Il parcheggio è gratuito?",
+      "risposta": "Sì, il parcheggio privato recintato e videosorvegliato è completamente gratuito per tutti gli ospiti dell'hotel. Dispone di 40 posti auto, 2 stalli per disabili e 2 colonnine di ricarica per veicoli elettrici (ricarica a consumo). L'accesso è attivo 24h su 24."
+    },
+    {
+      "domanda": "Come funziona la spa? È inclusa nel soggiorno?",
+      "risposta": "La spa (400 mq) comprende piscina termale, sauna, bagno turco ed è accessibile a tutti gli ospiti al costo di €45 per il percorso giornaliero. I trattamenti (massaggi, trattamenti viso) sono a pagamento separato. Gli ospiti della Suite Presidenziale hanno un trattamento spa di 60 minuti incluso. I pacchetti Benessere includono l'accesso illimitato."
+    },
+    {
+      "domanda": "Qual è la politica di cancellazione?",
+      "risposta": "Per prenotazioni standard: cancellazione gratuita fino a 7 giorni prima dell'arrivo. Tra 7 e 3 giorni prima: addebito della prima notte. Meno di 3 giorni o no-show: addebito del 100%. Per soggiorni durante eventi speciali (Capodanno, concerti, fiere) possono applicarsi condizioni più restrittive, specificate in fase di prenotazione."
+    },
+    {
+      "domanda": "C'è la spiaggia privata?",
+      "risposta": "L'hotel è convenzionato con lo Stabilimento Bagni Adria n°47, distante 80 m. Gli ospiti in pensione completa hanno ombrellone e 2 lettini inclusi. Per gli altri regimi è disponibile un convenzione a €18/giorno per ombrellone e lettini. Il trasferimento avviene a piedi in 2 minuti."
+    },
+    {
+      "domanda": "Come raggiungere l'hotel dalla stazione di Rimini?",
+      "risposta": "La Stazione Ferroviaria di Rimini dista circa 3 km dall'hotel (15 minuti a piedi lungo il lungomare o 5 minuti in taxi). Offriamo un servizio navetta gratuito su prenotazione (posti limitati: prenotare almeno 24h prima in reception o via email). In alternativa, la linea autobus n°11 ferma a 200 m dall'hotel."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ragioneSociale": "Hotel Vista Mare S.r.l.",
+  "nomeCommerciale": "Hotel Vista Mare",
+  "tagline": "Il tuo soggiorno sulla Riviera Romagnola dal 1978",
+  "stelle": 4,
+  "numCamere": 35,
+  "indirizzo": {
+    "via": "Viale Amerigo Vespucci 18",
+    "citta": "Rimini",
+    "provincia": "RN",
+    "cap": "47921",
+    "regione": "Emilia-Romagna",
+    "paese": "Italia",
+    "lat": 44.0647,
+    "lng": 12.5782
+  },
+  "contatti": {
+    "telefono": "+39 0541 55 1234",
+    "whatsapp": "+39 335 1234 567",
+    "email": "info@hotelvistamare-rimini.it",
+    "social": {
+      "instagram": "https://instagram.com/hotelvistamare_demo",
+      "facebook": "https://facebook.com/hotelvistamare_demo"
+    }
+  },
+  "orari": {
+    "checkIn": "15:00 – 22:00",
+    "checkOut": "Entro le 11:00",
+    "reception": "24h/7",
+    "ristorante": "07:30 – 10:00 (colazione) / 12:30 – 14:30 / 19:00 – 22:00",
+    "spa": "09:00 – 21:00",
+    "piscina": "08:00 – 20:00 (stagionale mag–set)"
+  },
+  "servizi": {
+    "wifiGratuito": true,
+    "parcheggio": "Gratuito",
+    "navettaStazione": true,
+    "ristoranteInterno": true,
+    "spa": true,
+    "piscina": true,
+    "accessibileDisabili": true,
+    "petPolicy": "Non ammessi",
+    "ariaCondizionata": true
+  },
+  "metaSeo": {
+    "title": "Hotel Vista Mare — 4 stelle Rimini sul mare dal 1978",
+    "description": "Hotel 4 stelle a Rimini sul mare. 35 camere, spa, ristorante interno, piscina, parcheggio gratuito e navetta stazione. Prenota il tuo soggiorno sulla Riviera Romagnola.",
+    "keywords": ["hotel rimini 4 stelle", "albergo rimini mare", "hotel spa rimini", "soggiorno riviera romagnola"]
+  }
+}

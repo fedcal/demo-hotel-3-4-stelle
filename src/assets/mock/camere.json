@@ -1,0 +1,60 @@
+{
+  "tipologie": [
+    {
+      "id": "standard",
+      "nome": "Camera Standard",
+      "descrizione": "Camera accogliente con vista giardino o laterale mare, arredata con gusto moderno. Dotata di tutti i comfort essenziali per un soggiorno rilassante.",
+      "prezzoPerNotte": 70,
+      "prezzoWeekend": 90,
+      "maxOspiti": 2,
+      "mq": 18,
+      "letti": "1 matrimoniale o 2 singoli",
+      "vista": "Giardino / Laterale",
+      "disponibili": 14,
+      "badge": null,
+      "dotazioni": ["TV 40\" Smart", "Aria condizionata", "Wi-Fi gratuito", "Cassaforte", "Minibar", "Asciugacapelli", "Bagno privato doccia"]
+    },
+    {
+      "id": "superior",
+      "nome": "Camera Superior",
+      "descrizione": "Camere più ampie con balcone e splendida vista mare. Arredamento raffinato, letto king-size e bagno con doccia rain shower.",
+      "prezzoPerNotte": 110,
+      "prezzoWeekend": 140,
+      "maxOspiti": 2,
+      "mq": 24,
+      "letti": "1 king-size",
+      "vista": "Mare frontale",
+      "disponibili": 12,
+      "badge": "Vista mare",
+      "dotazioni": ["TV 50\" Smart", "Aria condizionata", "Wi-Fi gratuito", "Cassaforte", "Minibar fornito", "Accappatoio e pantofole", "Doccia rain shower", "Balcone privato"]
+    },
+    {
+      "id": "junior-suite",
+      "nome": "Junior Suite",
+      "descrizione": "Suite con zona living separata, vasca idromassaggio e balcone panoramico sul mare Adriatico. La scelta ideale per coppie in cerca di romanticismo.",
+      "prezzoPerNotte": 190,
+      "prezzoWeekend": 230,
+      "maxOspiti": 2,
+      "mq": 38,
+      "letti": "1 king-size",
+      "vista": "Mare panoramico",
+      "disponibili": 6,
+      "badge": "Romantica",
+      "dotazioni": ["TV 55\" Smart", "Aria condizionata inverter", "Wi-Fi fibra", "Cassaforte grande", "Minibar premium", "Accappatoio e set toilette Molton Brown", "Vasca idromassaggio", "Balcone panoramico", "Welcome amenities"]
+    },
+    {
+      "id": "suite",
+      "nome": "Suite Presidenziale",
+      "descrizione": "La nostra suite di eccellenza: due stanze, soggiorno con angolo bar privato, terrazza con vista sul mare e accesso VIP alla spa con trattamento incluso.",
+      "prezzoPerNotte": 280,
+      "prezzoWeekend": 320,
+      "maxOspiti": 3,
+      "mq": 65,
+      "letti": "1 king-size + divano letto",
+      "vista": "Mare panoramico + terrazza",
+      "disponibili": 3,
+      "badge": "Luxury",
+      "dotazioni": ["TV 65\" Smart", "Sistema audio Bang & Olufsen", "Aria condizionata inverter", "Wi-Fi fibra dedicata", "Angolo bar privato", "Accappatoio firmato", "Vasca idromassaggio + doccia", "Terrazza privata", "Trattamento spa incluso (60 min)", "Upgrade colazione a buffet premium", "Late check-out garantito 13:00"]
+    }
+  ]
+}
